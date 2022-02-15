@@ -1,4 +1,4 @@
-ocal nvim_lsp = require("lspconfig")
+local nvim_lsp = require("lspconfig")
 
 -- https://www.getman.io/posts/programming-go-in-neovim/#intro
 
